@@ -4,9 +4,15 @@ A modern and interactive **personal portfolio website** showcasing my projects, 
 
 This portfolio highlights my work in **Java, JavaScript, React, Spring Boot, and PostgreSQL**, while presenting my projects and technical journey in a clean and professional way.
 
+![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+
 ---
 
-# Preview
+## Preview
 
 Portfolio Preview
 
@@ -14,7 +20,7 @@ Portfolio Preview
 
 ---
 
-# Objectives
+## Objectives
 
 - Build a strong **personal online presence**
 - Showcase **real-world projects and technical skills**
@@ -24,112 +30,85 @@ Portfolio Preview
 
 ---
 
-# Concepts Covered
+## Concepts Covered
 
-- Responsive Web Design
-- HTML5 Semantic Structure
-- Modern CSS (Flexbox, Grid, Animations)
-- JavaScript DOM Manipulation
-- UI/UX Design Principles
-- Performance-friendly animations
-- Accessibility basics
-- Interactive project cards
-- GitHub repository integration
-
----
-
-# Projects Showcased
-
-### GeoWatch
-A real-time crowd safety monitoring system that processes GPS-based incident reports and visualizes crowd risk zones during large public events.
-
-Repository:  
-https://github.com/shreyaawari28/GeoWatch
+- Responsive Web Design  
+- HTML5 Semantic Structure  
+- Modern CSS (Flexbox, Grid, Animations)  
+- JavaScript DOM Manipulation  
+- UI/UX Design Principles  
+- Performance-friendly animations  
+- Accessibility basics  
+- Interactive project cards  
+- GitHub repository integration  
 
 ---
 
-### AASHA
-An offline-first healthcare application that analyzes voice and text health data to help identify high-risk patient cases in low-connectivity rural environments.
+## Projects
 
-Repository:  
-https://github.com/shreyaawari28/AASHA
+This portfolio includes several projects demonstrating practical experience in:
 
----
+- Full-stack web application development  
+- API integration and backend services  
+- Responsive frontend interfaces  
+- Real-time or data-driven applications  
+- Developer productivity tools and utilities  
 
-### GitGo
-A developer productivity tool built as a VS Code extension that automates GitHub repository creation, documentation generation, and Git workflows.
-
-Repository:  
-https://github.com/shreyaawari28/GitGo
+Each project presented in the portfolio includes a short description, technology stack, and a link to the corresponding GitHub repository.
 
 ---
 
-### MindMeal
-An AI-powered web application that generates recipe recommendations from user ingredients and dynamically creates food images using an external AI API.
-
-Repository:  
-https://github.com/shreyaawari28/Mind-Meal
-
----
-
-# Technologies Used
+## Technologies Used
 
 ### Languages
-- Java
-- JavaScript
+Java, JavaScript
 
 ### Frontend
-- HTML
-- CSS
-- React
+HTML, CSS, React
 
 ### Backend
-- Spring Boot
-- FastAPI
+Spring Boot, FastAPI
 
-### Databases
-- PostgreSQL
+### Database
+PostgreSQL
 
 ### Tools
-- Git
-- GitHub
-- Maven
-- Postman
+Git, GitHub, Maven, Postman
 
 ---
 
-# Features
+## Features
 
-- Responsive layout for desktop and mobile
-- Interactive project cards
-- Technology badges with logos
-- Smooth hover animations and UI transitions
-- Clean dark theme interface
-- Direct links to GitHub repositories
-- Downloadable resume
-- Contact section with email and professional links
-
----
-
-# Intended Use
-
-- Personal portfolio hosting
-- Resume companion website
-- Project showcase
-- Demonstrating technical and design skills
-- Continuous UI/UX experimentation and improvements
+- Responsive layout for desktop and mobile  
+- Interactive project cards  
+- Technology badges with logos  
+- Smooth hover animations and UI transitions  
+- Clean dark theme interface  
+- Direct links to GitHub repositories  
+- Downloadable resume  
+- Contact section with email and professional links  
 
 ---
 
-# Author
+## Intended Use
+
+- Personal portfolio hosting  
+- Resume companion website  
+- Project showcase  
+- Demonstrating technical and design skills  
+- Continuous UI/UX experimentation and improvements  
+
+---
+
+## Author
 
 **Shreya Awari**
 
-Email:  
+Email  
 shreyaawari31@gmail.com  
 
-GitHub:  
+GitHub  
 https://github.com/shreyaawari28  
 
-LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/shreya-awari-/
