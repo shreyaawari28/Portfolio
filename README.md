@@ -14,7 +14,7 @@ This portfolio highlights my work in **Java, JavaScript, React, Spring Boot, and
 
 ## Preview
 
-![Portfolio Preview](assets/portfolio-preview.png)
+![Portfolio Preview](src/assets/portfolio-preview.png)
 
 ---
 
