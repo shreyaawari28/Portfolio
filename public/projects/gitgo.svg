@@ -1,0 +1,26 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#06101F"/>
+  <circle cx="182" cy="580" r="180" fill="#00EAFF" fill-opacity="0.14"/>
+  <circle cx="1014" cy="158" r="150" fill="#14B8A6" fill-opacity="0.18"/>
+  <rect x="70" y="66" width="1060" height="588" rx="30" fill="#0F172A" stroke="#243047"/>
+  <rect x="110" y="106" width="292" height="508" rx="22" fill="#091221"/>
+  <rect x="432" y="106" width="658" height="508" rx="22" fill="#091221"/>
+  <rect x="148" y="148" width="216" height="22" rx="11" fill="#243047"/>
+  <rect x="148" y="198" width="186" height="18" rx="9" fill="#1D8E9E"/>
+  <rect x="148" y="248" width="198" height="18" rx="9" fill="#243047"/>
+  <rect x="148" y="328" width="214" height="46" rx="14" fill="url(#paint0_linear_5_2)"/>
+  <rect x="470" y="148" width="370" height="22" rx="11" fill="#243047"/>
+  <rect x="470" y="198" width="438" height="250" rx="20" fill="#0D1830" stroke="#00EAFF" stroke-opacity="0.28"/>
+  <path d="M520 258L620 358L704 274" stroke="#00EAFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M818 274H942" stroke="#243047" stroke-width="14" stroke-linecap="round"/>
+  <path d="M818 322H994" stroke="#14B8A6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M470 492H1030" stroke="#243047" stroke-width="18" stroke-linecap="round"/>
+  <path d="M470 540H920" stroke="#243047" stroke-width="18" stroke-linecap="round"/>
+  <text x="106" y="698" fill="#E2E8F0" font-size="44" font-family="Arial, sans-serif" font-weight="700">GitGo</text>
+  <defs>
+    <linearGradient id="paint0_linear_5_2" x1="148" y1="351" x2="362" y2="351" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00EAFF"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+</svg>

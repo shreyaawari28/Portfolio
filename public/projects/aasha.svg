@@ -1,0 +1,27 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#07101F"/>
+  <circle cx="1010" cy="136" r="160" fill="#00EAFF" fill-opacity="0.14"/>
+  <circle cx="210" cy="602" r="170" fill="#14B8A6" fill-opacity="0.18"/>
+  <rect x="86" y="64" width="1028" height="592" rx="34" fill="#0F172A" stroke="#243047"/>
+  <rect x="128" y="106" width="944" height="74" rx="22" fill="#091221"/>
+  <rect x="128" y="212" width="420" height="404" rx="26" fill="#091221"/>
+  <rect x="578" y="212" width="494" height="188" rx="26" fill="#091221"/>
+  <rect x="578" y="428" width="494" height="188" rx="26" fill="#091221"/>
+  <rect x="166" y="128" width="210" height="18" rx="9" fill="#243047"/>
+  <rect x="806" y="128" width="222" height="28" rx="14" fill="url(#paint0_linear_4_2)"/>
+  <rect x="166" y="258" width="344" height="22" rx="11" fill="#243047"/>
+  <rect x="166" y="300" width="292" height="18" rx="9" fill="#1D8E9E"/>
+  <rect x="166" y="340" width="250" height="18" rx="9" fill="#243047"/>
+  <rect x="166" y="392" width="286" height="158" rx="20" fill="#111E35" stroke="#00EAFF" stroke-opacity="0.28"/>
+  <path d="M640 294H1002" stroke="#243047" stroke-width="18" stroke-linecap="round"/>
+  <path d="M640 506H1002" stroke="#243047" stroke-width="18" stroke-linecap="round"/>
+  <path d="M640 334H952" stroke="#14B8A6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M640 546H916" stroke="#00EAFF" stroke-width="16" stroke-linecap="round"/>
+  <text x="106" y="698" fill="#E2E8F0" font-size="44" font-family="Arial, sans-serif" font-weight="700">AASHA</text>
+  <defs>
+    <linearGradient id="paint0_linear_4_2" x1="806" y1="142" x2="1028" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00EAFF"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+</svg>
